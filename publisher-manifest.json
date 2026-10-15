@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1f157f29b503f5d8aa6e167e",
+  "owner": "aftqbhbjs",
+  "repo": "page-c9607f13d2d36c3c9d003490",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c9607f13d2d36c3c9d003490",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1601e55b126d55466134a0043db5d0414ae675f255adad7d3d4e9dd0ccfa2518",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点介绍订阅套餐、适用场景、客户端下载与导入步骤，帮助用户按需选择网络加速方案。",
+          "AI_DESCRIPTION": "小火箭节点介绍订阅套餐、适用场景、客户端下载与导入步骤，帮助用户按需选择网络加速方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#071426;color:#e7f6ff;font-family:system-ui,-apple-system,\"Segoe UI\",sans-serif;font-size:17px;line-height:1.75}a{color:#7ee7ff;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{width:min(920px,100%);margin:0 auto;padding:0 16px}header{padding-top:20px}nav{display:flex;flex-wrap:wrap;gap:12px 16px;padding:12px 0 8px;border-bottom:1px solid #16425f}.brand{font-weight:700;color:#fff}.hero{padding:28px 0 8px}h1{font-size:32px;line-height:1.3;margin:0 0 12px}h2{font-size:24px;margin:32px 0 12px;color:#b8f3ff}h3{font-size:18px;margin:0 0 8px;color:#fff}p{margin:0 0 12px}.lead{color:#d5e9f5}.panel{background:#0c2238;border:1px solid #1c5270;border-radius:14px;padding:16px;margin:12px 0}.steps{display:grid;gap:12px}.step{display:grid;grid-template-columns:42px 1fr;gap:12px;align-items:start}.num{width:42px;height:42px;border-radius:50%;background:#0e7490;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}.plans{display:grid;gap:12px}.plan{background:#0c2238;border:1px solid #1c5270;border-radius:14px;padding:16px}.plan.featured{border-color:#22d3ee;box-shadow:inset 0 0 0 1px #22d3ee}.price{font-size:28px;color:#7ee7ff;margin:4px 0}.annual{color:#9fd6ea;font-size:15px}ul{margin:8px 0 0;padding-left:18px}li{margin:4px 0}details{background:#0c2238;border:1px solid #1c5270;border-radius:12px;padding:10px 14px;margin:10px 0}summary{cursor:pointer;font-weight:700}footer{padding:28px 16px 40px;color:#9ec5d6;font-size:14px}@media(min-width:800px){.plans{grid-template-columns:1fr 1fr 1fr;align-items:stretch}}</style><header><nav><span class=\"brand\">小火箭节点</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#faq\">常见问题</a><a href=\"#download\">客户端下载</a></nav></header><main><section class=\"hero\"><h1>小火箭节点</h1><p class=\"lead\">小火箭节点是面向日常跨境访问的订阅服务页面，说明 VPN 网络加速、加速器线路选择，以及客户端下载后的导入方式。页面按官网结构整理套餐、使用步骤和常见问题，方便在手机上直接阅读。</p></section><section id=\"intro\"><h2>品牌简介</h2><div class=\"panel\"><p>小火箭节点机场把可用线路整理成订阅，用户在自己的客户端中更新一次即可看到对应节点。它不是单一公用账号，而是按流量、设备数和线路类型区分的小火箭节点 VPN 方案。</p><p>基础线路适合浏览网页和收发邮件；旗舰线路增加流媒体与游戏优化说明；团队线路面向多人共用和更高的月流量。选择前先看自己每月大概用量、同时在线设备，以及是否需要优先工单。</p><p>本页只提供产品说明和页面内导航。客户端请从各平台官方应用商店获取，订阅地址在完成购买后于账户页查看，不在此公开具体服务器信息。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"panel\"><h3>远程办公与学习</h3><p>出差或跨地区协作时，可用稳定线路访问公司文档、课堂平台和邮件。建议固定一台主力设备，避免多台同时更新大文件。</p><h3>流媒体与一般浏览</h3><p>旗舰版标注了全节点原生流媒体解锁。不同平台的地区策略会变化，解锁效果以当期线路说明为准，不承诺所有片库始终可看。</p><h3>出行备用</h3><p>酒店或公共网络质量不稳定时，可把小火箭节点当作备用加速器。先确认当地法律和网络管理规则，再决定是否连接。</p></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><article class=\"step\"><div class=\"num\">1</div><div><h3>确认套餐</h3><p>对照下方流量、设备数和线路类型，选定基础版、旗舰版或团队版。年付价格已写在各方案中，按月与按年不要重复计算。</p></div></article><article class=\"step\"><div class=\"num\">2</div><div><h3>准备客户端</h3><p>在手机或电脑安装你熟悉的代理客户端。小火箭节点不捆绑闭源安装包，下载入口见本页<a href=\"#download\">客户端下载</a>说明，安装后先打开一次并允许本地网络权限。</p></div></article><article class=\"step\"><div class=\"num\">3</div><div><h3>导入订阅</h3><p>登录后复制订阅链接，在客户端的订阅或配置页粘贴并更新。更新成功后会出现节点列表，选一个延迟较低的线路再打开总开关。</p></div></article><article class=\"step\"><div class=\"num\">4</div><div><h3>检查连通</h3><p>用浏览器打开常用网页，确认能加载文字和图片。若超时，换同地区另一条线路或重新拉取订阅，不要同时开启多个代理软件。</p></div></article></div></section><section id=\"plans\"><h2>套餐对比</h2><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"download\"><h2>客户端下载与官网入口</h2><div class=\"panel\"><p>小火箭节点官网下载指引只保留在本页锚点，不跳转到外部安装包。请到对应系统的应用商店搜索你常用的客户端，核对开发者名称后再安装。</p><p>已有订阅的用户从账户中的“订阅链接”复制地址；更换手机时先在旧设备退出多余会话，以免占满同时在线数量。官方网站更新套餐或维护窗口时，以本页套餐区文字为准。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#guide\">返回操作步骤</a> · <a href=\"#faq\">阅读常见问题</a></p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>小火箭节点和免费梯子有什么不同？</summary><p>免费公共节点通常没有流量和人数保障，线路随时失效。小火箭节点按套餐给出月流量、设备上限和工单范围，适合需要可预期用量的人。免费来源不必导入到同一客户端配置里。</p></details><details><summary>订阅后客户端在哪里下载？</summary><p>客户端请自行在应用商店获取，本站不托管安装文件。装好后把账户里的订阅链接粘贴到客户端的订阅栏并更新，即可看到当前套餐对应的节点。</p></details><details><summary>每月流量用完会怎样？</summary><p>到达套餐流量后，当月高速额度停止，下个计费周期恢复。可以等待周期重置，或在账户中改到更高档位。团队版的 1000GB 适合多人，不建议个人为了囤流量购买。</p></details><details><summary>几台设备可以同时在线？</summary><p>基础版 3 台，旗舰版 5 台，团队版 20 台。路由器若单独占一个会话，也会计入设备数。超出后新的设备会连不上，需先断开不用的会话。</p></details><details><summary>流媒体和游戏加速是否保证成功？</summary><p>旗舰版写明全节点原生流媒体解锁和 IPLC 专线游戏优化，但仍受平台风控、游戏服务器和本地运营商影响。连不上时先换节点，再提交优先工单，并写上时间和地区。</p></details><details><summary>如何判断是不是小火箭节点官方页面？</summary><p>以你下单时保存的本页套餐名称、价格和年付说明为准。任何私聊发来的陌生安装包、要求预付到个人账户的链接，都不要当作官网下载。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>小火箭节点 · 套餐说明页。使用网络加速服务前请遵守所在地法律法规与服务条款。</p></footer>",
+          "hash": "9988970960a19c8f5eaf53e21f1ccf066036e17562aa56bd9b0205057ef79388",
+          "seo": {
+            "title": "小火箭节点官网｜VPN 网络加速与客户端下载",
+            "keywords": "小火箭节点,小火箭节点官网,小火箭节点VPN,小火箭节点机场,网络加速,加速器,客户端下载,机场订阅",
+            "description": "小火箭节点介绍订阅套餐、适用场景、客户端下载与导入步骤，帮助用户按需选择网络加速方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pgwwr.cn",
+    "host": "p-01fa541017.pgwwr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5bce38b28a7138323228380011ccda26758e61c1b299c0e56b573446626db505",
+    "sitemap.xml": "097ba5155f916cff345e3ceab5bca08ad17882c00a0df3e72d811debc2d31bc5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d74411be213377452ed5bba832b1c9287a2e9e8c31e40fa67ab1f8671d925d46",
+    "robots.txt": "a140fd9d159b7538d7310047b74632774db5d9252f64378be6d56d57f076038c",
+    "d54f3fd109bd903579ae08e7759db958.txt": "83f18bc9ac2205e7bc252ac6622de94e372ba6b4f65018e5cfed6f1c8de392d1"
+  },
+  "revision": "22eff25e306873f3fa480342a2f7612e5fa85f18af1e0e3f8a9746a5457093f0"
+}
